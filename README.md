@@ -1,4 +1,2 @@
 # SF-bay-area-bike-share-analysis
 The Bay Area Bike Share enables quick, easy, and affordable bike trips around the San Francisco Bay Area. They make regular open data releases plus maintain a real-time API.
-Bay Area Bike Share is a company that provides on-demand bike rentals for customers in San Francisco, Redwood City, Palo Alto, Mountain View, and San Jose. Users can unlock bikes from a variety of stations throughout each city, and return them to any station within the same city. Users pay for the service either through a yearly subscription or by purchasing 3-day or 24-hour passes. Users can make an unlimited number of trips, with trips under thirty minutes in length having no additional charge; longer trips will incur overtime fees.
-In this project, I performed an exploratory analysis on the data. I explored the two of the major parts of the data analysis process: data wrangling and exploratory data analysis. 
